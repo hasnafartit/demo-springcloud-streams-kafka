@@ -86,7 +86,20 @@ un autre exemple :
 
 
 
-Apres 
+Apres on a creer une methode de type Flux (dans le controleur) qui permet d'afficher le resultat de kstream en temps reel dans le navigateur 
+
+![image](https://user-images.githubusercontent.com/84719124/172884166-e33bc68b-a961-43c6-aec2-52faea25dac3.png)
+
+
+resultat :
+
+![image](https://user-images.githubusercontent.com/84719124/172884243-633e8ae0-747a-42df-a99b-4a50d47bde1f.png)
+
+puis on a creer page html qui permet d'afficher le graphe en temps reel 
+
+![image](https://user-images.githubusercontent.com/84719124/172884661-f5198529-869b-4df8-b050-3a62943c5ae2.png)
+
+
   
 
   
