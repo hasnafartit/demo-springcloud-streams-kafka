@@ -18,12 +18,12 @@ le teste :
 
 Apres on a creer une application spring boot:
 
-      Dans la premiere partie on a lancer kafka console consumer puis on a lancer l'app rest controller qu'on a creé
+   Dans la premiere partie on a lancer kafka console consumer puis on a lancer l'app rest controller qu'on a creé
       
   ![image](https://user-images.githubusercontent.com/84719124/172869819-f75f1331-f8f0-43dc-b7cf-729f4e87b606.png)
 
   
- puis on a lancer le navigateur(un browser) puis on a envoyer une requete http avec get (publish avec les parametre) le rest controller va recuperer les parametres et apres il a publier le msg(pageEvent) sur le topic 
+ puis on a lancer le navigateur(un browser) puis on a envoyer une requete http avec get (publish avec les parametre) le rest controller va recuperer les parametres et apres il a publié le message(pageEvent) sur le topic 
  
  ![image](https://user-images.githubusercontent.com/84719124/172869910-425d023b-25eb-4457-b3c1-803419480d1a.png)
 
@@ -31,7 +31,22 @@ Apres on a creer une application spring boot:
 ![image](https://user-images.githubusercontent.com/84719124/172869946-70ee8ce2-52ce-4d9a-afc8-e572aabdaf83.png)
 
 
+  Dans la 2eme partie on a creer un consumer (avec Consumer)  qui lire les messages envoyé par un topic et les afficher 
+ 
+ (ici on a le tester avec le message envoyer par la requete http)
+ 
+  ![image](https://user-images.githubusercontent.com/84719124/172872168-3259e933-fad2-423c-8dbb-46af0f4a3ee5.png)
 
+
+(ici on a le tester avec le message envoyer par un producer sur cmd)
+
+![image](https://user-images.githubusercontent.com/84719124/172873319-1a864616-c103-4193-88ec-6bfca163a0c8.png)
+
+
+
+
+
+  
 
   
   
