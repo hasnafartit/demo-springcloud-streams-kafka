@@ -69,9 +69,24 @@ Dans la 4eme partie on a creé une application où on a un consumer et un produc
 ![image](https://user-images.githubusercontent.com/84719124/172877631-eec6c6cb-928f-4a70-adb9-fa0a055126f5.png)
 
 
-Dans la 5eme partie on a 
+Dans la 5eme partie on a utiliser kstream qui permet de lire un enregistrement envoyé par un topic puis il faire des calcules en temps réel et renvoie le resultat au bout d'une période precise dans un autre topic 
   
-  
+  ![image](https://user-images.githubusercontent.com/84719124/172881392-ecfeb8a1-f41b-4460-b460-154a341d3f6e.png)
+
+teste 
+
+![image](https://user-images.githubusercontent.com/84719124/172881424-7e6acecf-7881-459d-a3e9-3267ce54215b.png)
+
+
+un autre exemple :
+
+![image](https://user-images.githubusercontent.com/84719124/172882203-ec17c634-66d5-4b1c-aa90-b868c3d3332f.png)
+
+![image](https://user-images.githubusercontent.com/84719124/172882300-903b0f2e-40fe-453d-b6da-8cbf01569e92.png)
+
+
+
+Apres 
   
 
   
