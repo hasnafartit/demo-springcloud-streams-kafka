@@ -43,6 +43,30 @@ Apres on a creer une application spring boot:
 ![image](https://user-images.githubusercontent.com/84719124/172873319-1a864616-c103-4193-88ec-6bfca163a0c8.png)
 
 
+Dans la 3eme partie on a creé un producer en utilisant la fonction Supplier qui permet de publier dans un topic 
+
+(ici on a lire les messages par un consumer sur cmd)
+
+![image](https://user-images.githubusercontent.com/84719124/172874247-cc5f8929-db8a-4258-9e46-d4d3c87e9c6d.png)
+
+
+
+Dans la 4eme partie on a creé une application où on a un consumer et un producer en meme temps,notre application prendre en input un enregistrement envoyé par un topic et puis il va faire un traitement et renvoie un enregistrement qu'elle le publier dans un autre topic
+
+
+![image](https://user-images.githubusercontent.com/84719124/172877190-a62a10cf-86a0-46a2-936d-37a803556243.png)
+
+
+(predre les enregistrement envoyer par une requete http en input)
+
+![image](https://user-images.githubusercontent.com/84719124/172877243-3c0a0ea3-ccd6-44c1-b1f3-4eb57c94e345.png)
+
+![image](https://user-images.githubusercontent.com/84719124/172877288-4ad2bd1d-6be3-44ec-9912-5f3014a9e5a1.png)
+
+
+(predre les enregistrement publier par le producer qu'on a creer par supplier en input)
+
+![image](https://user-images.githubusercontent.com/84719124/172877631-eec6c6cb-928f-4a70-adb9-fa0a055126f5.png)
 
 
 
